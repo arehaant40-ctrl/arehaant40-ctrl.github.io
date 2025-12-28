@@ -3,19 +3,28 @@ const videos = [
       id: "VB001",
       title: "Hot Exclusive Scene",
       thumbnail: "images/v1.jpg",
-      link: "https://nanolinks.in/epwBXlLo"
+      links: [
+        "https://nanolinks.in/epwBXlLo",
+        "https://SHORTENER_LINK_1_ALT"
+      ]
     },
     {
       id: "VB002",
       title: "Late Night Special",
       thumbnail: "images/v2.jpg",
-      link: "https://SHORTENER_LINK_2"
+      links: [
+        "https://SHORTENER_LINK_2",
+        "https://SHORTENER_LINK_2_ALT"
+      ]
     },
     {
       id: "VB003",
       title: "Trending Now",
       thumbnail: "images/v3.jpg",
-      link: "https://SHORTENER_LINK_3"
+      links: [
+        "https://SHORTENER_LINK_3",
+        "https://SHORTENER_LINK_3_ALT"
+      ]
     }
   ];
   
