@@ -5,7 +5,7 @@ const videos = [
       thumbnail: "images/v1.jpg",
       links: [
         "https://nanolinks.in/epwBXlLo",
-        "https://SHORTENER_LINK_1_ALT"
+        "https://nanolinks.in/epwBXlLo"
       ]
     },
     {
