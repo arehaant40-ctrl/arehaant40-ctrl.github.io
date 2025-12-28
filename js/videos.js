@@ -3,7 +3,7 @@ const videos = [
       id: "VB001",
       title: "Hot Exclusive Scene",
       thumbnail: "images/v1.jpg",
-      link: "https://SHORTENER_LINK_1"
+      link: "https://nanolinks.in/epwBXlLo"
     },
     {
       id: "VB002",
